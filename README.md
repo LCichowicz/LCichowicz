@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LCichowicz
+- 👋 Hi, I’m Lukas Cichowicz
 - 👀 I’m interested in Computer Science, AI and ML Learning technology.
 - 🌱 I’m currently learning Python in conjucntion with ML algorithms.
 - 💞️ I’m looking to collaborate on AI and ML projects
