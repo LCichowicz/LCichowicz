@@ -1,6 +1,6 @@
 # Hi, I'm Łukasz 👋
 
-Junior Data Scientist working with AI systems, transitioning from logistics into data and backend development.
+Junior Data Scientist working with AI systems, with a background in logistics.
 
 I focus on building practical solutions using LLMs, data processing and APIs.  
 I prefer shipping working systems and learning through real-world problems.
@@ -49,6 +49,17 @@ Status:
 - built visualizations to support decision logic
 
 Status: completed module (small but real contribution)
+
+---
+### 🏖 Weekend Trip Advisor — Prototype
+
+Early prototype exploring event-based trip recommendations:
+
+- parsing user preferences with LLM
+- matching events within a given radius
+- generating short summaries
+
+Status: exploratory notebook (early-stage prototype)
 
 ---
 
