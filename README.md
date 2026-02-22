@@ -1,84 +1,91 @@
-Hi, I'm Łukasz 👋
+# Hi, I'm Łukasz 👋
 
-Junior Data Science / AI practitioner transitioning from logistics into Machine Learning. I build practical prototypes, work with LLMs, and turn messy data into usable outputs. No hype — just learning, iterating, and shipping.
+Junior Data Scientist working with AI systems, transitioning from logistics into data and backend development.
 
-🔧 Tech Stack
+I focus on building practical solutions using LLMs, data processing and APIs.  
+I prefer shipping working systems and learning through real-world problems.
 
-Python
+---
 
-Data/ML: NumPy, Pandas, Matplotlib, scikit-learn, Hugging Face Transformers
+## 🔧 Tech Stack
 
-LLMs: OpenAI API, prompt engineering, tool/function calling, RAG with embeddings (ChromaDB)
+**Languages**  
+Python, TypeScript (working knowledge)
 
-Platforms/Tools: Git & GitHub, Kaggle, Azure AI Foundry (learning), Streamlit (planned app deployment)
+**Data / ML**  
+NumPy, Pandas, Matplotlib, scikit-learn, Hugging Face Transformers
 
-Other: JSON/YAML processing, API integrations, data parsing & cleaning
+**LLMs / AI**  
+OpenAI API, prompt engineering, RAG (ChromaDB), tool/function calling
 
-📌 Selected Projects
+**Backend / Systems**  
+FastAPI (learning in practice), REST APIs, JSON/YAML processing  
+Event-driven concepts (RabbitMQ — work in progress)
 
-🛰 AI_Devs 3 — AI Agent Challenges
+**Tools**  
+Git & GitHub, Docker (basic usage), Kaggle
 
-Hands‑on course with agentic tasks: LLM tools, vector search, multimodal cues, RAG.
+---
 
-Implemented agents for retrieval, extraction and decision logic
+## 📌 Selected Work
 
-Built RAG pipelines with embeddings + vector DB
+### 🤖 AI Agent Development (AI_Devs 3 & 4)
 
-Iterative prompting with validation, caching, loggingStatus: Course completed (threshold met). Currently refactoring solutions and preparing public repos.
+Hands-on work with agent-like systems:
+- building tool-based workflows
+- retrieval + vector search (RAG)
+- iterative prompting with validation, caching and logging
+- early work on reusable agent loop architecture
 
-Repos will be cleaned up and pushed publicly. Some tasks stayed private due to course rules; I’ll publish sanitized code and write-ups.
+Status:
+- AI_Devs 3 completed (solutions currently being refactored)
+- AI_Devs 4 in progress — focus on modular agent design
 
-🚚 Transport Delay Prediction — Proof of Concept
+---
 
-Predict delays using route, weather, and terrain signals.
+### 📊 Weather Notifications for Windsurfing — Visualization
 
-Phase 1: heuristic scoring
+- processed weather API data
+- built visualizations to support decision logic
 
-Phase 2: ML on GPS + historical delays (planned)Status: Prototype work & design notes; next step: dataset assembly and baseline.
+Status: completed module (small but real contribution)
 
-🏖 Weekend Trip Advisor — Prototype → App (planned)
+---
 
-Kaggle prototype that recommends weekend trips (events within ~100 km, cost to travel, preference fit).
+## 🧠 Practical Experience
 
-LLM for input parsing + short summaries
+Working as a Junior Data Scientist on commercial systems:
 
-Google data sources for events/places (to be integrated in app)Status: Currently a prototype; target is a working Streamlit app (public repo) with minimal, focused UX.
+- building and integrating APIs (email delivery, webhooks)
+- implementing user flows (e.g. invitation system with validation and email handling)
+- designing dynamic prompt configuration using YAML-based inputs
+- working with asynchronous processes and handling failure cases
+- debugging production issues (race conditions, inconsistent state, edge cases)
 
-📊 Weather Notifications for Windsurfing — Viz Work
+Working knowledge of:
+- MongoDB (queries, debugging data, understanding document structure)
+- basic application security practices (e.g. API access control, environment-based config)
 
-Built weather visualizations to flag windsurfing conditions.
+Exposure to:
+- event-driven design (message-based communication)
+- schema thinking, validation, and data contracts
 
-Parsed weather API data
+> Code not public due to commercial constraints
+---
 
-Designed plots to support alert logicStatus: Visualization module complete; candidate for a small standalone repo.
+## 🚀 Current Focus
 
-🎓 Learning & Certifications
+- building reusable AI agents (not one-off scripts)
+- understanding system design (events, contracts, reliability)
+- improving Python data stack (NumPy, Pandas, Matplotlib)
 
-Mathematics for Machine Learning and Data Science (Coursera Specialization)
+---
 
-AI_Devs 3 — advanced agentic workflows (threshold met)
+## 📫 Contact
 
-Preparing for DP‑100 (Azure Data Scientist Associate)
+LinkedIn: https://linkedin.com/in/lukasz-cichowicz  
+Email: l.cichowicz@wp.pl
 
-🚀 Current Focus
+---
 
-Solidifying Python data stack (NumPy, Pandas, Matplotlib)
-
-Cleaner RAG + evaluation loops for LLM outputs
-
-Turning prototypes into small, reliable apps (Streamlit, later Azure AI Foundry)
-
-More statistics/probability/linear algebra — because fundamentals matter
-
-🗺️ Roadmap / TODO
-
-
-
-📫 Contact
-
-LinkedIn: https://linkedin.com/in/lukasz-cichowicz
-
-Email: (add here)
-
-“True knowledge is knowledge of causes.” — Why I keep circling back to fundamentals while building things.
-
+> “True knowledge is knowledge of causes.”
